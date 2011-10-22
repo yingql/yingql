@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+	<AppID>47bd2e33b37c4a7f84b7d73957c6b2cd</AppID>
+	<PublisherID>cd646ed0e04d4167ab0c24c725a62345</PublisherID>
+	<URL></URL>
+	<AppStoreURL></AppStoreURL>
+	<BackgroundColor>000000</BackgroundColor>
+	<TextColor>CC0033</TextColor>
+	<UseLocationInfo></UseLocationInfo>
+	<RefreshRate>30</RefreshRate>
+	<TestMode>N</TestMode>
+	<NextADCount>3</NextADCount>
+	<LoopTimes>2</LoopTimes>
+	<AcceptsOfflineAD>Y</AcceptsOfflineAD>
+	<OfflineADCount>3</OfflineADCount>
+	<OfflineADSurvivalDays>1</OfflineADSurvivalDays>
+ 	<Width></Width>
+ 	<Height>50</Height>
+ 	<UseInternalBrowser>true</UseInternalBrowser>
+ 	<FittingStrategy>stretch</FittingStrategy>
+</AppSettings>

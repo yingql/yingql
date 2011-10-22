@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	android:installLocation="auto" package="com.yingql.android.games.zhaocha"
+	android:versionCode="3" android:versionName="1.2">
+	<uses-sdk android:minSdkVersion="7" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
+	<uses-permission android:name="android.permission.READ_LOGS" />
+	<application android:icon="@drawable/icon_72"
+		android:label="@string/app_name">
+		<activity android:name=".MainActivity" android:label="@string/app_name"
+			android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+			android:screenOrientation="landscape" android:launchMode="singleTop"
+			android:configChanges="orientation|keyboardHidden">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<!-- 多盟 integration -->
+		<activity android:name="cn.domob.android.ads.DomobActivity"
+			android:theme="@android:style/Theme.Translucent" />
+		<!-- 安沃integration -->
+		<activity android:name="com.adwo.adsdk.AdwoAdBrowserActivity"
+			android:label="@string/app_name" />
+		<!-- 安沃全屏广告 -->
+		<activity android:name="com.adwo.adsdk.AdwoSplashAdActivity"
+			android:label="@string/app_name" />
+		<meta-data android:value="84015b7a7f584fe28130e4af670d99f5"
+			android:name="ADMOGO_KEY" />
+		<uses-library android:name="com.google.android.maps" />
+		<activity android:name="com.wiyun.game.AccountRetrieval"
+			android:theme="@android:style/Theme.Dialog" />
+		<activity android:name="com.wiyun.game.BidPicker"
+			android:theme="@android:style/Theme.Dialog" />
+		<activity android:name="com.wiyun.game.ChangeMyPortrait" />
+		<activity android:name="com.wiyun.game.ComposeTopic"
+			android:configChanges="keyboardHidden|orientation"
+			android:windowSoftInputMode="stateHidden|adjustResize"
+			android:screenOrientation="portrait" />
+		<activity android:name="com.wiyun.game.CropImage"
+			android:configChanges="keyboardHidden|orientation"
+			android:screenOrientation="portrait" />
+		<activity android:name="com.wiyun.game.DownloadBlob"
+			android:theme="@style/WiGame.Borderless.Dialog" />
+		<activity android:name="com.wiyun.game.FullImageGallery" />
+		<activity android:name="com.wiyun.game.SaveGameDialog"
+			android:theme="@style/WiGame.Borderless.Dialog" />
+		<activity android:name="com.wiyun.game.Home"
+			android:launchMode="singleTask" android:configChanges="keyboardHidden|orientation"
+			android:windowSoftInputMode="stateHidden|adjustUnspecified" />
+		<activity android:name="com.wiyun.game.LoadGameDialog"
+			android:theme="@style/WiGame.Borderless.Dialog" />
+		<activity android:name="com.wiyun.game.Login" android:theme="@style/WiGame.Borderless.Dialog" />
+		<activity android:name="com.wiyun.game.OAuth" android:theme="@style/WiGame.Borderless.Dialog" />
+		<activity android:name="com.wiyun.game.SendChallenge"
+			android:theme="@style/WiGame.Borderless.Dialog" />
+		<activity android:name="com.wiyun.game.SubmitScore"
+			android:theme="@style/WiGame.Borderless.Dialog" />
+		<activity android:name="com.wiyun.game.SwitchAccount"
+			android:theme="@style/WiGame.Borderless.Dialog" />
+		<activity android:name="com.wiyun.game.UseAnotherAccount"
+			android:windowSoftInputMode="stateHidden|adjustUnspecified"
+			android:theme="@style/WiGame.Borderless.Dialog" />
+		<activity android:name="com.wiyun.game.UserMap" />
+		<meta-data android:value="4e99bf325270155e1a00001d"
+			android:name="UMENG_APPKEY" />
+		<meta-data android:value="all" android:name="UMENG_CHANNEL" />
+	</application>
+</manifest>

@@ -1,0 +1,165 @@
+{
+    "achievements": [
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u8fde\u51fb\u6570\u8fbe\u52305", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/1ff2ada9-4c6f-41ca-8e2e-6e3228f8f41e_png_36x36_q85.png", 
+            "id": "81bb325c022837e8", 
+            "name": "\u8717\u884c\u725b\u6b65", 
+            "point": 10, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u5206\u6570\u8fbe\u5230500", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/ac61bcde-95bc-4b64-8528-ac87d6599b88_png_36x36_q85.png", 
+            "id": "ef6547182815f2bd", 
+            "name": "\u521d\u51fa\u6c5f\u6e56", 
+            "point": 10, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u8fde\u51fb\u6570\u8fbe\u523010", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/08e2b904-f753-4de6-bfce-ee505d5fd683_png_36x36_q85.png", 
+            "id": "a22f1ca399387113", 
+            "name": "\u4e0d\u75be\u4e0d\u5f90", 
+            "point": 20, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u5206\u6570\u8fbe\u52301000", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/59833593-c791-41db-9880-fc1f43c2ab56_png_36x36_q85.png", 
+            "id": "6d38f8ca1ef1f3d8", 
+            "name": "\u9887\u5177\u6f5c\u529b", 
+            "point": 20, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u8fde\u51fb\u6570\u8fbe\u523025", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/dbd237a2-fe89-4ecc-a13a-8d9640f3abb8_png_36x36_q85.png", 
+            "id": "4032753529f7d2c8", 
+            "name": "\u773c\u75be\u624b\u5feb", 
+            "point": 30, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u5206\u6570\u8fbe\u52302000", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/e7dbea63-d749-449b-bac5-1018ba3bf845_png_36x36_q85.png", 
+            "id": "c7dc678d17af2460", 
+            "name": "\u521d\u663e\u950b\u8292", 
+            "point": 30, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u8fde\u51fb\u6570\u8fbe\u523040", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/19d328ee-357e-435c-bea5-cfab1aec4d3c_png_36x36_q85.png", 
+            "id": "443f36ba3ca421db", 
+            "name": "\u5954\u9038\u7edd\u5c18", 
+            "point": 40, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u5206\u6570\u8fbe\u52305000", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/a52447be-c7ce-4c95-969a-ae11e7c46b01_png_36x36_q85.png", 
+            "id": "9fe6b5613d8acbbf", 
+            "name": "\u58f0\u540d\u663e\u8d6b", 
+            "point": 40, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u8fde\u51fb\u6570\u8fbe\u523050", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/77faef15-417c-4485-8a5f-64982efc3218_png_36x36_q85.png", 
+            "id": "9570ade92f66b977", 
+            "name": "\u98ce\u9a70\u7535\u63a3", 
+            "point": 50, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u5206\u6570\u8fbe\u523010000", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/0b5b278a-fd81-42cf-97eb-1f8b97c7d173_png_36x36_q85.png", 
+            "id": "360146f2adbc602f", 
+            "name": "\u4e07\u4eba\u666f\u4ef0", 
+            "point": 50, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u8fde\u51fb\u6570\u8fbe\u523070", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/b0c6dc04-c05e-4bbb-bca2-eef25247fd96_png_36x36_q85.png", 
+            "id": "413ccf14943ae7e7", 
+            "name": "\u4e00\u65e5\u5343\u91cc", 
+            "point": 60, 
+            "secret": false
+        }, 
+        {
+            "alias": "", 
+            "description": "\u5728\u4efb\u610f\u6a21\u5f0f\u4e0b\u5206\u6570\u8fbe\u523020000", 
+            "icon": "http://static.wiyun.com/site_media/images/achievement/icon/848c34f2-0309-412c-b381-18935b8cef80_png_36x36_q85.png", 
+            "id": "766f1263a01786a9", 
+            "name": "\u5929\u4e0b\u65e0\u53cc", 
+            "point": 60, 
+            "secret": false
+        }
+    ], 
+    "leaderboards": [
+        {
+            "alias": "", 
+            "data_format": "N", 
+            "description": "\u5feb\u901f\u6a21\u5f0f\u5206\u6570\u6392\u884c", 
+            "id": "c491f37e026e43e4", 
+            "label": "\u5206", 
+            "mutli_score": false, 
+            "name": "\u5feb\u901f\u6a21\u5f0f\u5206\u6570\u6392\u884c", 
+            "primary": true, 
+            "sort_order": true
+        }, 
+        {
+            "alias": "", 
+            "data_format": "N", 
+            "description": "\u5feb\u901f\u6a21\u5f0f\u95ef\u5173\u6570\u6392\u884c", 
+            "id": "d9a48046add2f2d3", 
+            "label": "\u5173", 
+            "mutli_score": false, 
+            "name": "\u5feb\u901f\u6a21\u5f0f\u95ef\u5173\u6570\u6392\u884c", 
+            "primary": false, 
+            "sort_order": true
+        }, 
+        {
+            "alias": "", 
+            "data_format": "N", 
+            "description": "\u5c3d\u901f\u6a21\u5f0f\u5206\u6570\u6392\u884c", 
+            "id": "77e28ac123382270", 
+            "label": "\u5206", 
+            "mutli_score": false, 
+            "name": "\u5c3d\u901f\u6a21\u5f0f\u5206\u6570\u6392\u884c", 
+            "primary": false, 
+            "sort_order": true
+        }, 
+        {
+            "alias": "", 
+            "data_format": "N", 
+            "description": "\u5c3d\u901f\u6a21\u5f0f\u95ef\u5173\u6570\u6392\u884c", 
+            "id": "9e8914308e40391f", 
+            "label": "\u5173", 
+            "mutli_score": false, 
+            "name": "\u5c3d\u901f\u6a21\u5f0f\u95ef\u5173\u6570\u6392\u884c", 
+            "primary": false, 
+            "sort_order": true
+        }
+    ], 
+    "show_achievement": true, 
+    "show_challenge": false, 
+    "show_charge": false, 
+    "show_discussion": true, 
+    "show_leaderboard": true, 
+    "show_who_is_playing": true, 
+    "version": 1
+}
